@@ -4,7 +4,6 @@
 ## Table of contents
 * General Info
 * Working of Project
-* Screenshot
 * Features
 * Status
 * Contact
